@@ -1,1 +1,1 @@
-Excersies for week 2 precourse
+Exercises for week 2 precourse
