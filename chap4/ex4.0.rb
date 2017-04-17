@@ -25,7 +25,7 @@ my_own_var = 5 * (1+2)
 puts my_own_var
 
 
-var 1 = 8
+var1 = 8
 var2 = var1
 puts var1
 puts var2
