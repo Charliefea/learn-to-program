@@ -1,5 +1,5 @@
-line_width = 40
-puts "Table of Contents".center(line_width)
-puts ("Chapter 1:  Getting Started".ljust(line_width/2) + "Page 1".rjust(line_width/2))
-puts ("Chapter 2:  Numbers".ljust(line_width/2) + "Page 9".rjust(line_width/2))
-puts ("Chapter 1:  Letters".ljust(line_width) + "Page 13".rjust(line_width))
+
+puts "Table of Contents".center(50)
+puts ("Chapter 1:  Getting Started".ljust(30) + "Page 1".rjust(20))
+puts ("Chapter 2:  Numbers".ljust(30) + "Page 9".rjust(20))
+puts ("Chapter 1:  Letters".ljust(30) + "Page 13".rjust(20))
